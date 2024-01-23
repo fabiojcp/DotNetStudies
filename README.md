@@ -1,5 +1,8 @@
 # PostController
 
+## About
+Code implementing an API for creating, reading, and retrieving posts by ID in the .NET 7.0.13 environment.
+
 To Run:
 <ol>
   <li>Open CLI
@@ -49,6 +52,9 @@ To Run:
 
 
 # WeatherForecast
+
+## About
+Code for a weather forecast API, simulation predicting upcoming days' weather conditions.
 
 To Run:
 <ol>
