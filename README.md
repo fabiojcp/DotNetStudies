@@ -1,4 +1,4 @@
-# studyDotNet- WeatherForecast
+# WeatherForecast
 
 To Run:
 
