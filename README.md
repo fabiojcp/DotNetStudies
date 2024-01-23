@@ -15,3 +15,7 @@ To Run:
 **Endpoint:** `GET /WeatherForecast`
 
 **Description:** Example of weather forecasts for the next 5 days.
+
+3 - Docs
+
+**Endpoint:** `GET /swagger/index.html`
