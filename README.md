@@ -22,7 +22,6 @@ To Run:
   - **Route:** `/Post`
   - **Description:** Creates a new post.
   - **Request Body:**
-    - `Id` (optional): The unique identifier of the post.
     - `Title`: The title of the post.
     - `Content`: The content of the post.
     - `Author`: The author of the post.
