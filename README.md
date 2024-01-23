@@ -8,7 +8,7 @@ To Run:
 <li>run <code>cd WeatherForecast </code></li>
 <li>run <code>dotnet run Program.cs</code></li>
 <li>for a custom PORT <code>dotnet run Program.cs --urls=http://localhost:PORT</code></li>
-<ul> 
+</ul> 
 
 2 - Route
 
